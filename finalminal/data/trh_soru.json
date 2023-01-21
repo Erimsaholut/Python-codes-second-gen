@@ -1,0 +1,41 @@
+{
+  "q1": {
+    "mode": "0",
+    "Lesson": "Tarih",
+    "Question": "soru bir kir dil sir ?",
+    "sikA": "a sikki",
+    "sikB": "b sikki",
+    "sikC": "c sikki",
+    "sikD": "d sikki"
+  },
+
+  "q2": {
+    "mode": "0",
+    "Lesson": "Tarih",
+    "Question": "Soru iki siki piki tiki wiki ?",
+    "sikA": "a sikki",
+    "sikB": "b sikki",
+    "sikC": "c sikki",
+    "sikD": "d sikki"
+  },
+
+  "q3": {
+    "mode": "1",
+    "Lesson": "Tarih",
+    "Question": "Soru uc guc muc ?",
+    "Answer": "yescom"
+  },
+
+  "q4": {
+    "mode": "1",
+    "Lesson": "Tarih",
+    "Question": "Dort kere dort kactır ?.",
+    "Answer": "onalti"
+  },
+    "q4": {
+    "mode": "1",
+    "Lesson": "Tarih",
+    "Question": "Düzeni yıkıp yeni düzen kutm.",
+    "Answer": "onalti"
+  }
+}

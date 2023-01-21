@@ -1,0 +1,19 @@
+Vize Çalıştırıcı v1 yama notları
+Soru modunda 1i doğru olmak üzere rastgele şıklar veriyor
+eğer doğru yaparsanız aynı soruyu tekrar sormuyor ama yanlış yapar veya sruyu atlarsanız
+tekrar karşınıza çıkabiliyor
+Aynı şekilde konularıda tekrar görmemek için anladım seçeneği koydum
+
+eksiklikler
+1.konu çalışmlarındaki uzun satırlarda alt satıra atlamıyor.
+2.Apple'ın yazı okuma özellği ile taradığım yazılarda bazı harfler yanlış çıkmış
+3. Şu anlık exe ya da dmg olarak değil sadece IDE üzeirnden açılabiliyor
+4.Ayrıca kodu çok karışık ve kötü yazdım
+5.Csv dosyaları ile çalıştığı için , koymakta sıkıntılar çıktı
+6.Sebebini anlayamadığım şekilde 3 soru kaldığı zaman donuyor
+7.command=lambda: fonksiyon(parametre) diye bir özellik olduğunu programın ortasında öğrendim :D
+başında bilseydim en az 20 30 satır azalırdı kod ama şu an tekrar düzenlemeye üşendim
+
+vize çalıştırıcı v1.1
+1. 3soru kaldığında bozulmasının sebebi 4 tane şık seçememesiymiş onu düzeltemedim valla
+2. uygulamını başlığını değiştirfim dahda profonyenel gözüktü 🥸

@@ -1,0 +1,35 @@
+{
+  "q1": {
+    "mode": "0",
+    "lesson": "Edebiyat",
+    "Question": "soru bir kir dil sir ?",
+    "sikA": "a sikki",
+    "sikB": "b sikki",
+    "sikC": "c sikki",
+    "sikD": "d sikki"
+  },
+
+  "q2": {
+    "mode": "0",
+    "lesson": "Edebiyat",
+    "Question": "Soru iki siki piki tiki wiki ?",
+    "sikA": "a sikki",
+    "sikB": "b sikki",
+    "sikC": "c sikki",
+    "sikD": "d sikki"
+  },
+
+  "q3": {
+    "mode": "1",
+    "lesson": "Edebiyat",
+    "Question": "Soru uc guc muc ?",
+    "Answer": "yescom"
+  },
+
+  "q4": {
+    "mode": "1",
+    "lesson": "Edebiyat",
+    "Question": "Dort kere dort kactır ?.",
+    "Answer": "onalti"
+  }
+}
